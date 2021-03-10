@@ -1,0 +1,3 @@
+Application Version: ${ruoyi.version}
+Spring Boot Version: ${spring-boot.version}
+暨南大学论文管理系统正在启动！

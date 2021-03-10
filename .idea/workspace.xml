@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4b08ef3-6085-4306-8bc4-9f25e38cda92" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ruoyi/framework/security/service/SysLoginService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ruoyi/project/system/controller/SysChartController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/banner.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/profile/test.png</find>
+      <find>佛祖保佑</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/banner.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="126" />
+    <option name="width" value="1440" />
+    <option name="height" value="765" />
+  </component>
+  <component name="ProjectId" id="1n8k9k6bfL4eiQjNS3T89wjOnsG" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="version_0307" type="b2602c69:ProjectViewProjectNode" />
+              <item name="version_0307" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="version_0307" type="b2602c69:ProjectViewProjectNode" />
+              <item name="version_0307" type="462c0819:PsiDirectoryNode" />
+              <item name="profile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="version_0307" type="b2602c69:ProjectViewProjectNode" />
+              <item name="version_0307" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="version_0307" type="b2602c69:ProjectViewProjectNode" />
+              <item name="version_0307" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="version_0307" type="b2602c69:ProjectViewProjectNode" />
+              <item name="version_0307" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="version_0307" type="b2602c69:ProjectViewProjectNode" />
+              <item name="version_0307" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ruoyi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="version_0307" type="b2602c69:ProjectViewProjectNode" />
+              <item name="version_0307" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ruoyi" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="version_0307" type="b2602c69:ProjectViewProjectNode" />
+              <item name="version_0307" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ruoyi" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1615050881962" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.ruoyi.project.system.mapper" />
+      <recent name="com.ruoyi.framework.config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ruoyi.project.system.mapper" />
+      <recent name="com.ruoyi.project.system.controller" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Code\ruoyi\src\main\resources\mybatis\system" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RuoYiApplication">
+    <configuration name="SysSkillTypeMapperTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ruoyi.project.system.mapper.SysSkillTypeMapperTest" />
+      <module name="ruoyi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ruoyi.project.system.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SysSkillTypeMapperTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ruoyi.project.system.mapper.SysSkillTypeMapperTest" />
+      <module name="ruoyi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ruoyi.project.system.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SysSkillTypeMapperTest (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ruoyi.project.system.mapper.SysSkillTypeMapperTest" />
+      <module name="ruoyi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ruoyi.project.system.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SysSkillTypeMapperTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ruoyi.project.system.mapper.SysSkillTypeMapperTest" />
+      <module name="ruoyi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ruoyi.project.system.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SysSkillTypeMapperTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ruoyi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ruoyi.project.system.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ruoyi.project.system.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.ruoyi.project.system.mapper.SysSkillTypeMapperTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RuoYiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ruoyi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ruoyi.RuoYiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SysSkillTypeMapperTest (2)" />
+        <item itemvalue="Application.SysSkillTypeMapperTest (1)" />
+        <item itemvalue="JUnit.SysSkillTypeMapperTest.test" />
+        <item itemvalue="Application.SysSkillTypeMapperTest" />
+        <item itemvalue="Application.SysSkillTypeMapperTest (5)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4b08ef3-6085-4306-8bc4-9f25e38cda92" name="Default Changelist" comment="" />
+      <created>1610778955514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610778955514</updated>
+      <workItem from="1610778964266" duration="5669000" />
+      <workItem from="1610796906502" duration="284000" />
+      <workItem from="1610938530335" duration="46847000" />
+      <workItem from="1613825314707" duration="48000" />
+      <workItem from="1613825560328" duration="45000" />
+      <workItem from="1614251228292" duration="26865000" />
+      <workItem from="1614594734739" duration="29491000" />
+      <workItem from="1615048849101" duration="2208000" />
+      <workItem from="1615101260210" duration="995000" />
+      <workItem from="1615108597449" duration="597000" />
+      <workItem from="1615215342270" duration="1247000" />
+      <workItem from="1615362173985" duration="139000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5186000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.196443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" weight="0.32983023" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.41385436" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3285968" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="242" y="42" key="#Intentions" timestamp="1611987965558">
+      <screen x="0" y="0" width="1300" height="768" />
+    </state>
+    <state x="242" y="42" key="#Intentions/0.0.1300.768@0.0.1300.768" timestamp="1611987965558" />
+    <state x="455" y="68" key="#com.intellij.ide.util.MemberChooser" timestamp="1614858965389">
+      <screen x="0" y="0" width="1300" height="768" />
+    </state>
+    <state x="455" y="68" key="#com.intellij.ide.util.MemberChooser/0.0.1300.768@0.0.1300.768" timestamp="1614858965389" />
+    <state x="405" y="86" key="#xdebugger.evaluate" timestamp="1611145211311">
+      <screen x="0" y="0" width="1300" height="768" />
+    </state>
+    <state x="405" y="86" key="#xdebugger.evaluate/0.0.1300.768@0.0.1300.768" timestamp="1611145211311" />
+    <state x="430" y="139" key="FileChooserDialogImpl" timestamp="1610783423150">
+      <screen x="0" y="0" width="1300" height="768" />
+    </state>
+    <state x="430" y="139" key="FileChooserDialogImpl/0.0.1300.768@0.0.1300.768" timestamp="1610783423150" />
+    <state width="1257" height="197" key="GridCell.Tab.0.bottom" timestamp="1615029507226">
+      <screen x="0" y="0" width="1300" height="768" />
+    </state>
+    <state width="1257" height="197" key="GridCell.Tab.0.bottom/0.0.1300.768@0.0.1300.768" timestamp="1615029507226" />
+    <state width="1257" height="197" key="GridCell.Tab.0.center" timestamp="1615029507226">
+      <screen x="0" y="0" width="1300" height="768" />
+    </state>
+    <state width="1257" height="197" key="GridCell.Tab.0.center/0.0.1300.768@0.0.1300.768" timestamp="1615029507226" />
+    <state width="1257" height="197" key="GridCell.Tab.0.left" timestamp="1615029507226">
+      <screen x="0" y="0" width="1300" height="768" />
+    </state>
+    <state width="1257" height="197" key="GridCell.Tab.0.left/0.0.1300.768@0.0.1300.768" timestamp="1615029507226" />
+    <state width="1257" height="197" key="GridCell.Tab.0.right" timestamp="1615029507226">
+      <screen x="0" y="0" width="1300" height="768" />
+    </state>
+    <state width="1257" height="197" key="GridCell.Tab.0.right/0.0.1300.768@0.0.1300.768" timestamp="1615029507226" />
+    <state width="1257" height="197" key="GridCell.Tab.1.bottom" timestamp="1615029506816">
+      <screen x="0" y="0" width="1300" height="768" />
+    </state>
+    <state width="1257" height="197" key="GridCell.Tab.1.bottom/0.0.1300.768@0.0.1300.768" timestamp="1615029506816" />
+    <state width="1257" height="197" key="GridCell.Tab.1.center" timestamp="1615029506816">
+      <screen x="0" y="0" width="1300" height="768" />
+    </state>
+    <state width="1257" height="197" key="GridCell.Tab.1.center/0.0.1300.768@0.0.1300.768" timestamp="1615029506816" />
+    <state width="1257" height="197" key="GridCell.Tab.1.left" timestamp="1615029506816">
+      <screen x="0" y="0" width="1300" height="768" />
+    </state>
+    <state width="1257" height="197" key="GridCell.Tab.1.left/0.0.1300.768@0.0.1300.768" timestamp="1615029506816" />
+    <state width="1257" height="197" key="GridCell.Tab.1.right" timestamp="1615029506816">
+      <screen x="0" y="0" width="1300" height="768" />
+    </state>
+    <state width="1257" height="197" key="GridCell.Tab.1.right/0.0.1300.768@0.0.1300.768" timestamp="1615029506816" />
+    <state width="1257" height="197" key="GridCell.Tab.2.bottom" timestamp="1615029506818">
+      <screen x="0" y="0" width="1300" height="768" />
+    </state>
+    <state width="1257" height="197" key="GridCell.Tab.2.bottom/0.0.1300.768@0.0.1300.768" timestamp="1615029506818" />
+    <state width="1257" height="197" key="GridCell.Tab.2.center" timestamp="1615029506817">
+      <screen x="0" y="0" width="1300" height="768" />
+    </state>
+    <state width="1257" height="197" key="GridCell.Tab.2.center/0.0.1300.768@0.0.1300.768" timestamp="1615029506817" />
+    <state width="1257" height="197" key="GridCell.Tab.2.left" timestamp="1615029506817">
+      <screen x="0" y="0" width="1300" height="768" />
+    </state>
+    <state width="1257" height="197" key="GridCell.Tab.2.left/0.0.1300.768@0.0.1300.768" timestamp="1615029506817" />
+    <state width="1257" height="197" key="GridCell.Tab.2.right" timestamp="1615029506817">
+      <screen x="0" y="0" width="1300" height="768" />
+    </state>
+    <state width="1257" height="197" key="GridCell.Tab.2.right/0.0.1300.768@0.0.1300.768" timestamp="1615029506817" />
+    <state x="230" y="118" key="IDE.errors.dialog" timestamp="1614857830047">
+      <screen x="0" y="0" width="1300" height="768" />
+    </state>
+    <state x="230" y="118" key="IDE.errors.dialog/0.0.1300.768@0.0.1300.768" timestamp="1614857830047" />
+    <state x="151" y="28" key="SettingsEditor" timestamp="1614595112178">
+      <screen x="0" y="0" width="1300" height="768" />
+    </state>
+    <state x="151" y="28" key="SettingsEditor/0.0.1300.768@0.0.1300.768" timestamp="1614595112178" />
+    <state x="371" y="125" width="582" height="524" key="StructurePopup" timestamp="1615029860494">
+      <screen x="0" y="0" width="1300" height="768" />
+    </state>
+    <state x="371" y="125" width="582" height="524" key="StructurePopup/0.0.1300.768@0.0.1300.768" timestamp="1615029860494" />
+    <state x="415" y="138" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1614858910325">
+      <screen x="0" y="0" width="1300" height="768" />
+    </state>
+    <state x="415" y="138" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1300.768@0.0.1300.768" timestamp="1614858910325" />
+    <state x="352" y="116" width="596" height="536" key="find.popup" timestamp="1615029461151">
+      <screen x="0" y="0" width="1300" height="768" />
+    </state>
+    <state x="352" y="116" width="596" height="536" key="find.popup/0.0.1300.768@0.0.1300.768" timestamp="1615029461151" />
+    <state x="313" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1615041670782">
+      <screen x="0" y="0" width="1300" height="768" />
+    </state>
+    <state x="313" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1300.768@0.0.1300.768" timestamp="1615041670782" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruoyi/framework/security/service/SysLoginService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruoyi/project/system/controller/SysChartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/banner.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
